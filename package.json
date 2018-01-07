@@ -1,0 +1,14 @@
+{
+  "name": "kohana-cli",
+  "version": "0.0.1",
+  "description": "Kohana CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vassudeo Shetye",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.12.2"
+  }
+}
